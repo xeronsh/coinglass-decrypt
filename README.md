@@ -218,7 +218,7 @@ See [`example.py`](example.py) for a working demo.
 | [`decrypt.py`](decrypt.py) | Core decryption library |
 | [`discovered_endpoints.py`](discovered_endpoints.py) | Full endpoint catalog with params and status |
 | [`example.py`](example.py) | Usage examples |
-| [`test_endpoints.py`](test_endpoints.py) | 45-endpoint automated test suite |
+| [`check_endpoints.py`](check_endpoints.py) | 45-endpoint automated test suite |
 | [`PROBE_REPORT.md`](PROBE_REPORT.md) | Reverse engineering probe report (v values, headers, full analysis) |
 | [`pyproject.toml`](pyproject.toml) | Python package config |
 

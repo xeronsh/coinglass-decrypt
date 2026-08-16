@@ -13,3 +13,6 @@ py-modules = ["decrypt", "discovered_endpoints", "example"]
 [build-system]
 requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
+
+[dependency-groups]
+dev = ["pytest>=8.0"]
